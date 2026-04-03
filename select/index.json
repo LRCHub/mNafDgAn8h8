@@ -1,48 +1,80 @@
 {
   "version": 1,
-  "base_track": "果てない空",
+  "base_track": "言葉より大切なもの",
   "base_artist": "嵐",
-  "createdAt": "2026-03-28T05:39:02.359797Z",
+  "createdAt": "2026-04-03T05:20:12.099511Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "果てない空",
-      "artist": "Superfly",
+      "title": "言葉より大切なもの",
+      "artist": "ARASHI",
       "has_synced": true,
-      "path": "select/01_果てない空_Superfly.lrc"
+      "path": "select/01_言葉より大切なもの_ARASHI.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "果てない空",
+      "title": "言葉より大切なもの",
       "artist": "嵐",
       "has_synced": true,
-      "path": "select/02_果てない空_嵐.lrc"
+      "path": "select/02_言葉より大切なもの_嵐.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "01 果てない空",
+      "title": "言葉より大切なもの",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_言葉より大切なもの_嵐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言葉より大切なもの",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/04_言葉より大切なもの_嵐.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "言葉より大切なもの",
       "artist": "Arashi",
       "has_synced": true,
-      "path": "select/03_01_果てない空_Arashi.lrc"
+      "path": "select/05_言葉より大切なもの_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "言葉より大切なもの",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/06_言葉より大切なもの_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "言葉より大切なもの",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/07_言葉より大切なもの_嵐.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "果てない空",
+      "title": "言葉より大切なもの",
       "artist": "嵐",
       "has_synced": false,
-      "path": "select/pl_01_果てない空_嵐.txt"
+      "path": "select/pl_01_言葉より大切なもの_嵐.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "果てない空",
+      "title": "言葉より大切なもの",
       "artist": "嵐",
       "has_synced": true,
-      "path": "select/localdb_01_果てない空_嵐.lrc",
+      "path": "select/localdb_01_言葉より大切なもの_嵐.lrc",
       "repo_name": "mNafDgAn8h8"
     }
   ]
